@@ -3,6 +3,7 @@
 ## I'm a Student Developer👨‍💻
 
 - 🌱 I’m currently learning everything😂
+- 👀 I'm interested in Web Development and Competitive Programming👀
 - 👯 I’m looking for hands-on experiences🟢
 - 🥅 2022 Goals: Contribute more to Open Source Projects🌐
 - ⚡ Fun fact: I love to Play Chess♟ and Watch Anime👒
