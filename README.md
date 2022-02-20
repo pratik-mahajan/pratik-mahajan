@@ -12,7 +12,6 @@
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/pratik-mahajan-518155196/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/pratik-mahajan-518155196/#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 ### Languages and Tools:
 
